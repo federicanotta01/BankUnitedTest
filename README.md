@@ -2,9 +2,9 @@
 
 ## To run the "TakeHomeExercise_Notta.ipynb" notebook:
 
-Open the notebook in a Jupyter Notebook environment.
-Run each cell sequentially to execute the code.
-Review the data loaded from CSV files and merged together.
+> Open the notebook in a Jupyter Notebook environment.
+> Run each cell sequentially to execute the code.
+> Review the data loaded from CSV files and merged together.
 
 ## Take Home Exercise
 
