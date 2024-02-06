@@ -1,5 +1,11 @@
 # BankUnitedTest
 
+## To run the "TakeHomeExercise_Notta.ipynb" notebook:
+
+Open the notebook in a Jupyter Notebook environment.
+Run each cell sequentially to execute the code.
+Review the data loaded from CSV files and merged together.
+
 ## Take Home Exercise
 
 > 1)	Attached are two csv files. In the programing language of your choice merge the file “Loan Risk.csv” to the file “Loan Position.csv” only keeping the loan numbers in the file “Loan Position.csv”.  The Loan Position file contains the LoanNumber and the Balance on the loan. The Loan Risk file contains the LoanNumber with the corresponding Probability of Default (PD) and Loss Given Default (LGD). 
